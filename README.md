@@ -28,7 +28,7 @@ The videos used include:
 
 ![](admin-page.png)
 
-![](editor-page.png)
+![](editor-page.png "need editor access")
 
 
 ### Built With
